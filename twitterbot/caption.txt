@@ -1,0 +1,440 @@
+Captions for image 000000000139.jpg:
+  0) a living room filled with furniture and a fire place . (p=0.003351)
+  1) a living room filled with furniture and a flat screen tv . (p=0.002932)
+  2) a living room filled with furniture and a tv . (p=0.001629)
+Captions for image 000000000285.jpg:
+  0) a large brown bear walking across a lush green field . (p=0.001495)
+  1) a brown bear standing on top of a rock . (p=0.000893)
+  2) a large brown bear standing on top of a grass covered field . (p=0.000792)
+Captions for image 000000000724.jpg:
+  0) a red stop sign sitting on the side of a road . (p=0.015162)
+  1) a red stop sign sitting on the side of a street . (p=0.001472)
+  2) a red stop sign sitting in the middle of a road . (p=0.001050)
+Captions for image 000000000785.jpg:
+  0) a man riding skis down a snow covered slope . (p=0.023310)
+  1) a person riding skis on a snowy surface (p=0.009476)
+  2) a person riding skis down a snow covered slope . (p=0.005742)
+Captions for image 000000000872.jpg:
+  0) a baseball player swinging a bat at a ball (p=0.002634)
+  1) a baseball player holding a bat on top of a field . (p=0.002398)
+  2) a baseball player holding a bat on a field . (p=0.002300)
+Captions for image 000000000885.jpg:
+  0) a male tennis player in action on the court . (p=0.004638)
+  1) a man is playing tennis on a tennis court . (p=0.001571)
+  2) a male tennis player in a white shirt is playing tennis (p=0.000503)
+Captions for image 000000001000.jpg:
+  0) a group of young men standing next to each other . (p=0.002427)
+  1) a group of young men holding tennis racquets . (p=0.001919)
+  2) a group of young men standing next to each other holding racquets . (p=0.000927)
+Captions for image 000000001584.jpg:
+  0) a red double decker bus driving down a street . (p=0.022885)
+  1) a red double decker bus driving down a road . (p=0.003036)
+  2) a red double decker bus driving down the street . (p=0.002717)
+Captions for image 000000002157.jpg:
+  0) a table topped with plates and bowls of food . (p=0.002168)
+  1) a table topped with plates of food and drinks . (p=0.000813)
+  2) a table topped with plates of food and a cup of coffee . (p=0.000148)
+Captions for image 000000002261.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.016618)
+  1) a man on a surfboard riding a wave . (p=0.004004)
+  2) a man riding a wave on a surfboard . (p=0.002981)
+Captions for image 000000002473.jpg:
+  0) a person jumping a snow board in the air (p=0.007414)
+  1) a person on a snowboard in the air . (p=0.001149)
+  2) a person on a snow board in the air . (p=0.000384)
+Captions for image 000000005477.jpg:
+  0) a large jetliner sitting on top of an airport runway . (p=0.010421)
+  1) a large jetliner sitting on top of an airport tarmac . (p=0.005962)
+  2) a large passenger jet sitting on top of an airport runway . (p=0.003085)
+Captions for image 000000005529.jpg:
+  0) a man riding skis down a snow covered slope . (p=0.026029)
+  1) a person skiing down a snow covered slope . (p=0.003411)
+  2) a man riding skis down a snow covered ski slope . (p=0.002514)
+Captions for image 000000006040.jpg:
+  0) a passenger train that is pulling into a station . (p=0.002689)
+  1) a blue and white train traveling down train tracks . (p=0.001059)
+  2) a passenger train that is traveling down the tracks . (p=0.000878)
+Captions for image 000000006213.jpg:
+  0) a bathroom with a sink and a mirror (p=0.002583)
+  1) a bathroom with a sink , mirror , and bathtub . (p=0.000266)
+  2) a bathroom with a sink , mirror , and shower . (p=0.000258)
+Captions for image 000000006460.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.042589)
+  1) a person riding a surf board on a wave (p=0.015578)
+  2) a man riding a wave on a surfboard in the ocean . (p=0.004642)
+Captions for image 000000006471.jpg:
+  0) a baseball player swinging a bat at a ball (p=0.007929)
+  1) a baseball player holding a bat on top of a field . (p=0.004131)
+  2) a baseball player swinging a bat at a ball . (p=0.003124)
+Captions for image 000000006894.jpg:
+  0) a man is standing next to an elephant . (p=0.000488)
+  1) a man is standing next to a large elephant . (p=0.000191)
+  2) a man is standing next to an elephant (p=0.000144)
+Captions for image 000000007088.jpg:
+  0) a woman walking down a street holding an umbrella . (p=0.002804)
+  1) a little girl walking down a street holding an umbrella . (p=0.001308)
+  2) a little girl holding an umbrella in the rain . (p=0.000923)
+Captions for image 000000007108.jpg:
+  0) a couple of elephants standing next to each other . (p=0.008668)
+  1) two elephants standing next to each other in a field . (p=0.001023)
+  2) a couple of elephants standing next to each other on a field . (p=0.000403)
+Captions for image 000000007278.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.049670)
+  1) a man on a surfboard riding a wave . (p=0.010377)
+  2) a man riding a wave on a surfboard in the ocean . (p=0.005132)
+Captions for image 000000007281.jpg:
+  0) a group of people riding horses on a beach . (p=0.005119)
+  1) a group of people riding horses along a beach . (p=0.002900)
+  2) a group of people riding horses on the beach . (p=0.002778)
+Captions for image 000000007511.jpg:
+  0) a man flying a kite on the beach . (p=0.006151)
+  1) a man flying a kite on a beach . (p=0.005950)
+  2) a man is flying a kite on the beach . (p=0.004252)
+Captions for image 000000007574.jpg:
+  0) a kitchen with a stove , sink , and refrigerator . (p=0.000071)
+  1) a kitchen with a stove , sink , microwave and a refrigerator . (p=0.000011)
+  2) a kitchen with a stove , sink , and refrigerator (p=0.000006)
+Captions for image 000000007784.jpg:
+  0) a person flying a kite in a blue sky . (p=0.000849)
+  1) a person flying a kite in the sky . (p=0.000619)
+  2) a person flying a kite in the sky (p=0.000306)
+Captions for image 000000007816.jpg:
+  0) a man riding a motorcycle down a street . (p=0.003559)
+  1) a man riding a motorcycle down a curvy road . (p=0.003097)
+  2) a person riding a motorcycle on a road (p=0.002096)
+Captions for image 000000007977.jpg:
+  0) a man riding a skateboard down a street . (p=0.009083)
+  1) a young man riding a skateboard down a street . (p=0.003620)
+  2) a man riding a skateboard down the side of a ramp . (p=0.002366)
+Captions for image 000000008021.jpg:
+  0) a man standing in front of a tv holding a microphone . (p=0.000228)
+  1) a man standing in front of a tv holding a wii controller . (p=0.000126)
+  2) a man standing in front of a tv holding a nintendo wii controller . (p=0.000123)
+Captions for image 000000009891.jpg:
+  0) a group of people standing around a luggage cart . (p=0.001370)
+  1) a group of men standing around a luggage cart . (p=0.000368)
+  2) a group of people standing around a luggage carousel . (p=0.000179)
+Captions for image 000000009914.jpg:
+  0) a plate with a sandwich and french fries . (p=0.000675)
+  1) a white plate topped with a sandwich and fries . (p=0.000584)
+  2) a plate of food with a sandwich and french fries . (p=0.000484)
+Captions for image 000000010092.jpg:
+  0) a bed sitting in a bedroom next to a window . (p=0.002497)
+  1) a bed sitting in a bedroom next to a lamp . (p=0.000373)
+  2) a bedroom with a bed and a window (p=0.000102)
+Captions for image 000000010363.jpg:
+  0) a cat sitting on top of a car . (p=0.002040)
+  1) a cat sitting on the back of a car . (p=0.001062)
+  2) a cat sitting on the back of a car (p=0.000404)
+Captions for image 000000010583.jpg:
+  0) a plate with a piece of cake on it (p=0.000406)
+  1) a plate with a piece of cake on it . (p=0.000215)
+  2) a plate with a piece of cake and a fork . (p=0.000147)
+Captions for image 000000011615.jpg:
+  0) a street sign on a pole near a building (p=0.000097)
+  1) a street sign on a pole with a sky background (p=0.000078)
+  2) a street sign on a pole with a building in the background (p=0.000048)
+Captions for image 000000017182.jpg:
+  0) a wooden bench sitting in front of a window . (p=0.000063)
+  1) a wooden bench sitting in front of a doorway . (p=0.000037)
+  2) a wooden bench sitting in a room next to a window . (p=0.000015)
+Captions for image 000000018193.jpg:
+  0) a young boy eating a slice of pizza . (p=0.001679)
+  1) a young boy eating a piece of pizza . (p=0.001566)
+  2) a young boy eating a piece of cake . (p=0.000459)
+Captions for image 000000018380.jpg:
+  0) a group of people sitting around a table eating food . (p=0.003407)
+  1) a group of people sitting around a table with food . (p=0.002234)
+  2) a group of people sitting at a table with plates of food . (p=0.001853)
+Captions for image 000000018491.jpg:
+  0) a baseball player swinging a bat at a ball (p=0.006244)
+  1) a baseball player swinging a bat at a ball . (p=0.002226)
+  2) a baseball player swinging a bat on a field (p=0.002198)
+Captions for image 000000018519.jpg:
+  0) a man riding a skateboard down the side of a ramp . (p=0.004006)
+  1) a man riding a skateboard down a ramp . (p=0.001917)
+  2) a man riding a skateboard on top of a ramp . (p=0.000762)
+Captions for image 000000018575.jpg:
+  0) a white plate topped with a sandwich and fries . (p=0.001964)
+  1) a white plate topped with a sandwich and french fries . (p=0.001395)
+  2) a plate of food with a sandwich and french fries . (p=0.000842)
+Captions for image 000000029187.jpg:
+  0) a man riding a horse drawn carriage down a street . (p=0.000901)
+  1) a man is riding a horse in the street . (p=0.000451)
+  2) a man is riding a horse on the street . (p=0.000380)
+Captions for image 000000029393.jpg:
+  0) a dog that is standing in the grass . (p=0.000735)
+  1) a dog that is standing in the dirt . (p=0.000545)
+  2) a brown dog standing next to a tree . (p=0.000177)
+Captions for image 000000031093.jpg:
+  0) a man riding a skateboard up the side of a ramp . (p=0.012338)
+  1) a man riding a skateboard on a ramp . (p=0.002019)
+  2) a man riding a skateboard on top of a ramp . (p=0.001257)
+Captions for image 000000031269.jpg:
+  0) a group of zebra standing on top of a lush green field . (p=0.000998)
+  1) a group of zebras standing in a field . (p=0.000765)
+  2) a group of zebra standing on top of a grass covered field . (p=0.000656)
+Captions for image 000000031296.jpg:
+  0) a group of people sitting around a table . (p=0.007320)
+  1) a group of people sitting at a table with wine glasses . (p=0.001183)
+  2) a group of people sitting around a table with food . (p=0.001164)
+Captions for image 000000032081.jpg:
+  0) a female tennis player in action on the court . (p=0.003173)
+  1) a woman is playing tennis on a tennis court . (p=0.002029)
+  2) a woman is playing tennis on a court . (p=0.001423)
+Captions for image 000000032334.jpg:
+  0) a man and a woman sitting at a table with wine glasses . (p=0.000142)
+  1) a man and a woman are sitting at a table . (p=0.000108)
+  2) a man and a woman are sitting at a table (p=0.000059)
+Captions for image 000000032570.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.031206)
+  1) a man on a surfboard riding a wave . (p=0.009965)
+  2) a man riding a wave on a surfboard in the ocean . (p=0.004103)
+Captions for image 000000032610.jpg:
+  0) a laptop computer sitting on top of a desk . (p=0.003005)
+  1) a laptop computer sitting on top of a wooden desk . (p=0.002828)
+  2) a laptop computer sitting on top of a table . (p=0.002105)
+Captions for image 000000032735.jpg:
+  0) a skier in mid air after a jump . (p=0.000853)
+  1) a skier in mid air after a jump (p=0.000489)
+  2) a person in the air on a snowboard . (p=0.000203)
+Captions for image 000000032901.jpg:
+  0) a group of men standing next to each other . (p=0.008622)
+  1) a group of men standing next to each other in a room . (p=0.002415)
+  2) a group of people standing next to each other . (p=0.002252)
+Captions for image 000000033368.jpg:
+  0) a male tennis player in action on the court . (p=0.004745)
+  1) a man is playing tennis on a tennis court . (p=0.002748)
+  2) a man is playing tennis on a court . (p=0.001376)
+Captions for image 000000033638.jpg:
+  0) a man standing in a kitchen preparing food . (p=0.002385)
+  1) a man standing in a kitchen next to a stove . (p=0.000205)
+  2) a man standing in a kitchen preparing food (p=0.000101)
+Captions for image 000000033707.jpg:
+  0) a couple of giraffe standing next to each other . (p=0.008644)
+  1) a couple of giraffe standing next to each other on a field . (p=0.001510)
+  2) a couple of giraffe standing next to each other in a field . (p=0.000409)
+Captions for image 000000033759.jpg:
+  0) a young boy holding a baseball bat on a field . (p=0.003555)
+  1) a young boy swinging a baseball bat at a ball . (p=0.003050)
+  2) a young boy holding a baseball bat in his hands . (p=0.001075)
+Captions for image 000000038118.jpg:
+  0) a man riding skis down a snow covered slope . (p=0.015518)
+  1) a man riding skis on top of a snow covered slope . (p=0.003189)
+  2) a man riding skis down a snow covered ski slope . (p=0.001703)
+Captions for image 000000038210.jpg:
+  0) a man riding skis down a snow covered slope . (p=0.022022)
+  1) a person riding skis down a snow covered slope . (p=0.009780)
+  2) a person riding skis on a snowy surface (p=0.007302)
+Captions for image 000000038678.jpg:
+  0) a woman sitting at a table with a plate of food . (p=0.002864)
+  1) a woman sitting at a table eating a piece of cake . (p=0.001160)
+  2) a woman sitting at a table with a plate of food (p=0.000411)
+Captions for image 000000038825.jpg:
+  0) a couple of zebra standing next to each other . (p=0.004623)
+  1) a couple of zebra standing on top of a grass covered field . (p=0.003110)
+  2) a couple of zebra standing next to each other on a field . (p=0.002472)
+Captions for image 000000039551.jpg:
+  0) a female tennis player in action on the court . (p=0.003301)
+  1) a woman is playing tennis on a tennis court . (p=0.002199)
+  2) a woman is playing tennis on a court . (p=0.001300)
+Captions for image 000000039670.jpg:
+  0) a train traveling down tracks next to a forest . (p=0.001462)
+  1) a train traveling down train tracks next to a forest . (p=0.001147)
+  2) a train traveling down tracks next to a lush green field . (p=0.000506)
+Captions for image 000000039769.jpg:
+  0) a cat laying on top of a couch next to a cat . (p=0.000148)
+  1) a cat laying on top of a bed next to a cat . (p=0.000114)
+  2) a cat laying on top of a bed next to a stuffed animal . (p=0.000083)
+Captions for image 000000039914.jpg:
+  0) a man is flying a kite in a field . (p=0.001485)
+  1) a man flying a kite in a field . (p=0.001033)
+  2) a man is flying a kite in a field (p=0.000778)
+Captions for image 000000040036.jpg:
+  0) a man riding on the back of a brown horse . (p=0.004370)
+  1) a man riding on the back of a white horse . (p=0.001584)
+  2) a man riding on the back of a horse . (p=0.001415)
+Captions for image 000000046252.jpg:
+  0) a baseball player swinging a bat at a ball (p=0.006882)
+  1) a baseball player holding a bat on top of a field . (p=0.004238)
+  2) a baseball player swinging a bat at a ball . (p=0.003064)
+Captions for image 000000048564.jpg:
+  0) a man with a hat talking on a cell phone . (p=0.000316)
+  1) a man with a hat talking on a cell phone (p=0.000135)
+  2) a man with a hat talking on a cellphone . (p=0.000089)
+Captions for image 000000049269.jpg:
+  0) a brown and white horse standing in a field . (p=0.000997)
+  1) a brown horse standing next to a brown horse . (p=0.000483)
+  2) a brown and white horse standing in a grassy field . (p=0.000295)
+Captions for image 000000050844.jpg:
+  0) a group of stuffed animals sitting on top of a table . (p=0.000860)
+  1) a group of teddy bears sitting on a couch . (p=0.000764)
+  2) a group of teddy bears sitting on top of a table . (p=0.000524)
+Captions for image 000000051008.jpg:
+  0) a cat laying on top of a laptop computer . (p=0.013266)
+  1) a cat laying on a laptop on a bed . (p=0.001331)
+  2) a cat laying on a laptop on a bed (p=0.000823)
+Captions for image 000000051309.jpg:
+  0) a herd of cattle standing on top of a lush green field . (p=0.001925)
+  1) a herd of horses standing on top of a lush green field . (p=0.001377)
+  2) a group of horses standing in a field . (p=0.001321)
+Captions for image 000000051314.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.036331)
+  1) a man on a surfboard riding a wave . (p=0.011644)
+  2) a man riding a surfboard on top of a wave . (p=0.006672)
+Captions for image 000000052017.jpg:
+  0) a small airplane flying through a blue sky . (p=0.003826)
+  1) a small plane flying through a blue sky . (p=0.002292)
+  2) a red and white plane flying in the sky . (p=0.000398)
+Captions for image 000000052891.jpg:
+  0) a dog that is standing in the sand . (p=0.001674)
+  1) a dog that is standing in the sand with a frisbee . (p=0.001327)
+  2) a dog that is standing on a beach with a frisbee . (p=0.000193)
+Captions for image 000000079031.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.010669)
+  1) a man riding a surfboard on top of a wave . (p=0.006059)
+  2) a man riding a surfboard on a wave in the ocean . (p=0.005145)
+Captions for image 000000079188.jpg:
+  0) a couple of giraffe standing next to each other . (p=0.006715)
+  1) a couple of giraffe standing on top of a lush green field . (p=0.001919)
+  2) a couple of giraffe standing next to each other on a field . (p=0.001913)
+Captions for image 000000080273.jpg:
+  0) a man riding skis down a snow covered slope . (p=0.011638)
+  1) a man riding skis on top of a snow covered slope . (p=0.003719)
+  2) a man riding skis down a snow covered ski slope . (p=0.000797)
+Captions for image 000000080274.jpg:
+  0) a large elephant standing next to a stone wall . (p=0.000563)
+  1) a large elephant standing next to a tree . (p=0.000416)
+  2) a large elephant standing next to a wooden fence . (p=0.000403)
+Captions for image 000000080659.jpg:
+  0) a group of people riding on the backs of horses . (p=0.006036)
+  1) a group of people riding horses down a dirt road . (p=0.001105)
+  2) a group of people riding on the backs of brown horses . (p=0.000835)
+Captions for image 000000082715.jpg:
+  0) a man riding a wave on top of a surfboard . (p=0.037702)
+  1) a person riding a surf board on a wave (p=0.015497)
+  2) a person on a surfboard riding a wave . (p=0.008277)
+Captions for image 000000084031.jpg:
+  0) a baseball player swinging a bat at a ball (p=0.001907)
+  1) a baseball player holding a bat on a field . (p=0.001630)
+  2) a baseball player is getting ready to hit a ball . (p=0.001320)
+Captions for image 000000084241.jpg:
+  0) a group of people standing in a kitchen preparing food . (p=0.001174)
+  1) a group of people standing around a kitchen counter . (p=0.001133)
+  2) a group of people standing around a table with food . (p=0.000561)
+Captions for image 000000138492.jpg:
+  0) a dog is catching a frisbee in its mouth . (p=0.001837)
+  1) a black and white dog catching a frisbee in it 's mouth . (p=0.001230)
+  2) a black and white dog catching a frisbee in its mouth . (p=0.000918)
+Captions for image 000000138639.jpg:
+  0) a person riding a bike on a city street (p=0.002109)
+  1) a man riding a bike down a street next to a tall building . (p=0.000159)
+  2) a man riding a bike down a street next to tall buildings . (p=0.000130)
+Captions for image 000000139871.jpg:
+  0) a fighter jet sitting on top of an airport runway . (p=0.003287)
+  1) a fighter jet sitting on top of a runway . (p=0.001882)
+  2) a fighter jet sitting on top of an airport tarmac . (p=0.001046)
+Captions for image 000000139872.jpg:
+  0) a black and white dog holding a frisbee in its mouth . (p=0.001164)
+  1) a black and white dog laying on top of a grass covered field . (p=0.000790)
+  2) a black and white dog laying in the grass with a frisbee . (p=0.000586)
+Captions for image 000000140270.jpg:
+  0) a man riding on the back of a brown horse . (p=0.011263)
+  1) a man riding on the back of a white horse . (p=0.005734)
+  2) a person riding a horse in a field (p=0.001699)
+Captions for image 000000140286.jpg:
+  0) a horse pulling a carriage down a street . (p=0.002156)
+  1) a horse pulling a carriage with a man on it . (p=0.000210)
+  2) a horse pulling a carriage with a man in it . (p=0.000170)
+Captions for image 000000140439.jpg:
+  0) a vase filled with flowers on top of a table . (p=0.003386)
+  1) a vase filled with flowers sitting on top of a table . (p=0.003363)
+  2) a vase filled with flowers sitting on a table . (p=0.002121)
+Captions for image 000000140556.jpg:
+  0) a group of people standing next to a fire hydrant . (p=0.002420)
+  1) a group of people standing around a fire hydrant . (p=0.002261)
+  2) a group of men standing next to a fire hydrant . (p=0.001737)
+Captions for image 000000142585.jpg:
+  0) a car driving down a street next to a traffic light . (p=0.000104)
+  1) a car driving down a street next to traffic lights . (p=0.000034)
+  2) a car driving down a street next to a car . (p=0.000022)
+Captions for image 000000142620.jpg:
+  0) a man sitting at a table with a plate of food . (p=0.002754)
+  1) a man sitting at a table with a plate of food (p=0.000600)
+  2) a man is sitting at a table with a plate of food . (p=0.000200)
+Captions for image 000000142790.jpg:
+  0) a man sitting on a snowboard in the snow . (p=0.000331)
+  1) a man sitting on a snowboard in the snow (p=0.000061)
+  2) a man sitting on a snow covered slope with a snowboard . (p=0.000024)
+Captions for image 000000142971.jpg:
+  0) a group of people on surfboards in the water . (p=0.003327)
+  1) a group of people riding on top of surfboards . (p=0.001710)
+  2) a group of people riding on top of a wave . (p=0.000772)
+Captions for image 000000143068.jpg:
+  0) a group of people standing on top of a sandy beach . (p=0.003271)
+  1) a group of people flying kites on a beach . (p=0.002241)
+  2) a group of people standing on top of a beach flying kites . (p=0.001255)
+Captions for image 000000143961.jpg:
+  0) a group of people standing under a blue umbrella . (p=0.000666)
+  1) a crowd of people standing under a blue umbrella . (p=0.000580)
+  2) a crowd of people standing under a large umbrella . (p=0.000108)
+Captions for image 000000144114.jpg:
+  0) a small airplane flying through a blue sky . (p=0.002953)
+  1) a small plane flying through a blue sky . (p=0.001674)
+  2) a small airplane flying through a cloudy sky . (p=0.000612)
+Captions for image 000000144300.jpg:
+  0) a red motorcycle parked on the side of a road . (p=0.001290)
+  1) a red motorcycle parked in a parking lot . (p=0.001213)
+  2) a red motorcycle parked on the side of a street . (p=0.000839)
+Captions for image 000000144333.jpg:
+  0) a woman riding a bike down a street . (p=0.002758)
+  1) a woman riding a bike down a street next to a man . (p=0.000268)
+  2) a woman riding a bike with a basket on it . (p=0.000156)
+Captions for image 000000303893.jpg:
+  0) two young boys sitting on a bench in a park . (p=0.000151)
+  1) two young boys sitting on a bench in the grass . (p=0.000120)
+  2) two young children sitting on a bench in the grass . (p=0.000105)
+Captions for image 000000303908.jpg:
+  0) a wooden bench sitting next to a body of water . (p=0.000884)
+  1) a wooden bench sitting on top of a sandy beach . (p=0.000400)
+  2) a wooden bench sitting on top of a beach . (p=0.000283)
+Captions for image 000000304180.jpg:
+  0) a woman standing on a sidewalk next to a building . (p=0.000021)
+  1) a woman standing on a sidewalk next to a man . (p=0.000017)
+  2) a woman standing on a sidewalk with a tennis racket . (p=0.000015)
+Captions for image 000000304291.jpg:
+  0) a brown horse standing on top of a dirt field . (p=0.000850)
+  1) a brown horse standing on top of a dirt road . (p=0.000790)
+  2) a brown horse standing next to a tree . (p=0.000403)
+Captions for image 000000304560.jpg:
+  0) a black and white cat sitting in a field . (p=0.001495)
+  1) a black and white cat sitting in the grass . (p=0.001429)
+  2) a black and white cat is sitting in a field (p=0.000687)
+Captions for image 000000304812.jpg:
+  0) a man standing on a beach holding a surfboard . (p=0.002799)
+  1) a person walking on the beach with a surfboard . (p=0.001047)
+  2) a person walking on a beach with a surfboard (p=0.000875)
+Captions for image 000000304984.jpg:
+  0) a white plate topped with a sandwich and chips . (p=0.000409)
+  1) a white plate topped with a sandwich and a salad . (p=0.000291)
+  2) a white plate topped with a sandwich and a bowl of soup . (p=0.000178)
+Captions for image 000000547383.jpg:
+  0) a couple of sheep standing on top of a lush green field . (p=0.001726)
+  1) a couple of sheep are standing in a field (p=0.001162)
+  2) a couple of sheep standing on top of a grass covered field . (p=0.000917)
+Captions for image 1.jpg:
+  0) a group of people sitting around a living room . (p=0.003731)
+  1) a group of people sitting around a table . (p=0.001684)
+  2) a group of people sitting around a living room together . (p=0.001188)
+Captions for image 2.jpg:
+  0) a group of young men playing a game of soccer . (p=0.013135)
+  1) a group of men playing a game of soccer . (p=0.011309)
+  2) a group of men playing soccer on a field (p=0.003363)
+Captions for image 3.jpg:
+  0) a group of young women playing a game of frisbee . (p=0.000784)
+  1) a group of people standing on top of a sandy beach . (p=0.000370)
+  2) a group of people standing on top of a beach . (p=0.000286)
+Captions for image 4.jpg:
+  0) a group of young men playing a game of soccer . (p=0.012234)
+  1) a group of young people playing a game of soccer . (p=0.008283)
+  2) a group of young men playing a game of frisbee . (p=0.004824)
