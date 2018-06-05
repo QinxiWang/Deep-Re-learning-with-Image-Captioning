@@ -1,10 +1,9 @@
 # Deep-Re-learning-with-Image-Captioning
 
-This project explores the task of image captioning through a deep learning and a collective intelligence approach. We are interested in how effectively and accurately our model can generate captioning for any input image, and also takes in feedback of the result, and improves the performance. After generating captions for images using the LSTM model, We then created a Twitterbot using NodeJS’s Twit to get user feedback on these captions which we then can run back through our model to generate better captions!
+\t This project explores the task of image captioning through a deep learning and a collective intelligence approach. We are interested in how effectively and accurately our model can generate captioning for any input image, and also takes in feedback of the result, and improves the performance. After generating captions for images using the LSTM model, We then created a Twitterbot using NodeJS’s Twit to get user feedback on these captions which we then can run back through our model to generate better captions!
 
 
 Dependencies and Requirements:
-
 -Tensorflow (pip)
 -Bazel (use binary installer)
 	-nltk for python (pip)
