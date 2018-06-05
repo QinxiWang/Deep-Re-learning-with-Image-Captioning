@@ -1,19 +1,18 @@
 # Deep-Re-learning-with-Image-Captioning
 
-\t This project explores the task of image captioning through a deep learning and a collective intelligence approach. We are interested in how effectively and accurately our model can generate captioning for any input image, and also takes in feedback of the result, and improves the performance. After generating captions for images using the LSTM model, We then created a Twitterbot using NodeJS’s Twit to get user feedback on these captions which we then can run back through our model to generate better captions!
-
+This project explores the task of image captioning through a deep learning and a collective intelligence approach. We are interested in how effectively and accurately our model can generate captioning for any input image, and also takes in feedback of the result, and improves the performance. After generating captions for images using the LSTM model, We then created a Twitterbot using NodeJS’s Twit to get user feedback on these captions which we then can run back through our model to generate better captions!
 
 Dependencies and Requirements:
--Tensorflow (pip)
--Bazel (use binary installer)
-	-nltk for python (pip)
-	-Inception V3, can be obtained using the following command:
-	wget "http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz"
-	tar -xvf "inception_v3_2016_08_28.tar.gz" -C ${path_you_want_to_place_it}
-	rm "inception_v3_2016_08_28.tar.gz"
-	-im2txt model (at https://github.com/tensorflow/models/tree/master/research/im2txt)
-	-Pretrained model (download at https://github.com/KranthiGV/Pretrained-Show-and-Tell-model)
-	-(Optional: MSCOCO dataset)
+- Tensorflow (pip)
+- Bazel (use binary installer)
+- nltk for python (pip)
+- Inception V3, can be obtained using the following command:
+  - wget "http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz" 
+  - tar -xvf "inception_v3_2016_08_28.tar.gz" -C ${path_you_want_to_place_it}
+  - rm "inception_v3_2016_08_28.tar.gz"
+- im2txt model (at https://github.com/tensorflow/models/tree/master/research/im2txt)
+- Pretrained model (download at https://github.com/KranthiGV/Pretrained-Show-and-Tell-model)
+- (Optional: MSCOCO dataset)
 
 
 Instructions on how to run the program:
